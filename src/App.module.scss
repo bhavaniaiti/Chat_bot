@@ -1,0 +1,44 @@
+.secondaryMenu {
+  margin-top: 31vh;
+}
+
+.sideMenuIconOpen {
+  font-size: 25px;
+  color: #626262;
+  z-index: 10;
+  position: absolute;
+  background-color: #ffffff;
+  border-radius: 30px;
+  top: 30%;
+  left: -12px;
+}
+
+.sideMenuIconClose {
+  font-size: 25px;
+  color: #626262;
+  z-index: 10;
+  position: absolute;
+  top: 30%;
+  left: -10px;
+}
+
+.filterContainer {
+  border: 1px solid #e2e4e9;
+  color: #626262;
+  height: 200px;
+  width: 100%;
+  border-radius: 20px;
+}
+
+.divider {
+  border-top: 1px solid #cfcfcf;
+  border-bottom: 1px solid #fff;
+}
+
+.profileContanier {
+  width: 25%;
+  bottom: 30px;
+  position: absolute;
+  display: flex;
+  cursor: pointer;
+}
